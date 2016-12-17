@@ -19,4 +19,6 @@ High level steps involved.
 
 8) karma init => to setup the runner, set jasmine as test framework, locate the test files, specify browser to Firefox (you can also select different browser but needs different plugin), change reporter to ‘kjhtml’. All these changes can be directly done in ‘karma.conf.js’ generated.
 
-9) karma start => to start the test in firefox, click the debug button to see test results as in screenshot above.
+9) Write tests and place file in the path specified above.
+
+10) karma start => to start the test in firefox, click the debug button to see test results as in screenshot above.
