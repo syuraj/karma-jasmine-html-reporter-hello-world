@@ -21,4 +21,4 @@ High level steps involved.
 
 9) Write tests and place file in the path specified above.
 
-10) karma start => to start the test in firefox, click the debug button to see test results as in screenshot above.
+10) karma start => to start the test in firefox, click the debug button to see test results.
